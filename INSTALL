@@ -1,0 +1,9 @@
+Building ARH
+
+See doc/readme-qt.rst for instructions on building ARH QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ARH.
+
+See doc/build-*.txt for instructions on building arhd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ARH.
